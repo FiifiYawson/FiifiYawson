@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FiifiYawson
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning MERN STACK
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that make use of any of the MERN Stack technologies
 - 📫 How to reach me ghyawson@gmail.com or 0260824850
 
 <!---
